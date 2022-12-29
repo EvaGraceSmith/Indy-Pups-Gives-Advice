@@ -1,3 +1,30 @@
+/* font-family: 'Chewy', cursive;
+font-family: 'Roboto', sans-serif; */
+
+
 body{
     background-color: pink;
+}
+header{
+    background-color: maroon;
+    color: whitesmoke;
+    font-family: 'Chewy', cursive;
+    font-size: 4em;
+    text-align: center;
+    padding-top: 1em;
+    height: 2em;
+
+
+}
+main{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+
+}
+img{
+    margin: auto;
+    margin-left: 25%;
+    border-radius: 10px;
+
+
 }
