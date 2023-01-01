@@ -13,6 +13,7 @@ header{
     text-align: center;
     padding-top: 1em;
     height: 2em;
+    margin-bottom: 2em;
 
 
 }
@@ -25,6 +26,20 @@ img{
     margin: auto;
     margin-left: 25%;
     border-radius: 10px;
+    max-height: 16em;
 
 
+
+}
+
+form{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
